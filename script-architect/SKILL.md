@@ -11,7 +11,7 @@ license: commercial
 
 Generate script automation (Node.js/JavaScript) dari dokumentasi endpoint 
 yang dihasilkan oleh skill `endpoint-hunter`. Mengikuti pattern dan style 
-kode yang sudah ada di GitHub org `layerairdrop`.
+kode yang sudah ada di GitHub org kamu.
 
 ## Self-Learning Framework (SOUL + MEMORY + TASKS)
 
@@ -42,7 +42,7 @@ kode yang sudah ada di GitHub org `layerairdrop`.
 
 - Dokumentasi endpoint dari `endpoint-hunter` (atau user provide manual)
 - Node.js installed (node --version untuk verify)
-- Pattern reference dari repo layerairdrop yang sudah ada
+- Pattern reference dari repo yang sudah ada
 
 ## WAJIB SEBELUM BUILD: Identify Campaign Type
 
@@ -119,7 +119,7 @@ project-name-bot/
 ### Step 7: Git Push
 1. .gitignore (node_modules/, privateKey.txt, proxy.txt)
 2. git init, add, commit
-3. gh repo create layerairdrop/[project]-bot --private --source=. --push
+3. gh repo create [org]/[project]-bot --private --source=. --push
 
 ## Common Patterns
 
