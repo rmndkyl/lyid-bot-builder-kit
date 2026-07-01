@@ -151,7 +151,7 @@ for (const wallet of wallets) {
 ## References (Full Version Only)
 
 43 references including:
-- Specific project examples (convallax, simplechain, hertzflow, unicity, orbition, etc.)
+- 11+ live-tested project examples
 - OAuth templates (Google PKCE, GitHub)
 - Proxy patterns, logger patterns, banner patterns
 - GMX-fork patterns, Supabase patterns, Solana patterns

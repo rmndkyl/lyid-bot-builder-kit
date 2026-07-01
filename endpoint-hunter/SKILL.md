@@ -128,7 +128,7 @@ Total: /100 -> Tier (FREE/PREMIUM/HIGH PRIORITY)
 ## References (Full Version Only)
 
 The full version includes 30+ case studies with specific project data:
-- Convallax, SimpleChain, HertzFlow, Unicity, Orbition, Kiedex, Canopy, UpOnly, Watt2Trade, FLPP, Afyniti
+- 11+ live-tested project case studies
 - SIWE patterns, RSC detection, Google OAuth PKCE, Supabase patterns
 - Solana Anchor extraction, Turnstile sitekey extraction
 - Pre-seeded MEMORY.md with 35+ real-world learnings
